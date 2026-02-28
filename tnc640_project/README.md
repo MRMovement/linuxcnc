@@ -4,35 +4,35 @@
 
 ## 项目结构
 
-tnc640_project/
-├── main.py # 程序入口
-├── requirements.txt # 依赖包
-├── images/ # 图片资源目录
-│ ├── 手动操作.png
-│ ├── 编程.png
-│ └── ...
-├── src/ # 源代码目录
-│ ├── ui/ # UI相关
-│ │ ├── main_window.py # 主窗口
-│ │ ├── top_panel.py # 顶部标签面板
-│ │ ├── right_panel.py # 右侧按钮面板
-│ │ ├── bottom_panel.py # 底部面板
-│ │ └── pages/ # 页面
-│ │ ├── manual_page.py # 手动操作页面
-│ │ └── program_page.py# 编程页面
-│ ├── widgets/ # 自定义小部件
-│ │ ├── buttons.py # 按钮组件
-│ │ ├── displays.py # 显示组件
-│ │ └── sliders.py # 滑块组件
-│ ├── utils/ # 工具函数
-│ │ ├── image_loader.py # 图片加载
-│ │ ├── style_helper.py # 样式助手
-│ │ └── text_utils.py # 文本工具
-│ └── config/ # 配置
-│ ├── colors.py # 颜色配置
-│ ├── sizes.py # 尺寸配置
-│ └── paths.py # 路径配置
-└── README.md # 说明文档
+tnc640_project/  
+├── main.py                 # 程序入口  
+├── requirements.txt        # 依赖包  
+├── images/                 # 图片资源目录  
+│   ├── 手动操作.png  
+│   ├── 编程.png  
+│   └── ...  
+├── src/                    # 源代码目录  
+│   ├── ui/                 # UI相关  
+│   │   ├── main_window.py  # 主窗口  
+│   │   ├── top_panel.py    # 顶部标签面板  
+│   │   ├── right_panel.py  # 右侧按钮面板  
+│   │   ├── bottom_panel.py # 底部面板  
+│   │   └── pages/          # 页面  
+│   │       ├── manual_page.py   # 手动操作页面  
+│   │       └── program_page.py  # 编程页面  
+│   ├── widgets/            # 自定义小部件  
+│   │   ├── buttons.py      # 按钮组件  
+│   │   ├── displays.py     # 显示组件  
+│   │   └── sliders.py      # 滑块组件  
+│   ├── utils/              # 工具函数  
+│   │   ├── image_loader.py # 图片加载  
+│   │   ├── style_helper.py # 样式助手  
+│   │   └── text_utils.py   # 文本工具  
+│   └── config/             # 配置  
+│       ├── colors.py       # 颜色配置  
+│       ├── sizes.py        # 尺寸配置  
+│       └── paths.py        # 路径配置  
+└── README.md               # 说明文档
 
 ## 功能特点
 
