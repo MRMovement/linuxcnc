@@ -1,0 +1,27 @@
+"""尺寸配置"""
+
+SIZES = {
+    # 窗口尺寸
+    "WINDOW_WIDTH": 1325,
+    "WINDOW_HEIGHT": 1000,
+    
+    # 按钮尺寸
+    "RIGHT_VERTICAL_BUTTON_WIDTH": 180,
+    "RIGHT_BUTTON_WIDTH": 153,
+    "RIGHT_BUTTON_HEIGHT": 98,
+    "BOTTOM_BUTTON_WIDTH": 160,
+    "BOTTOM_BUTTON_HEIGHT": 100,
+    "PAGER_BUTTON_WIDTH": 160,
+    "PAGER_BUTTON_HEIGHT": 10,
+    
+    # 特殊尺寸
+    "SMALL_BUTTON_SIZE": 38,
+    "MEDIUM_BUTTON_HEIGHT": 30,
+    "MEDIUM_BUTTON_WIDTH": 187,
+    "DISPLAY_ITEM_WIDTH": 530,
+    "DISPLAY_ITEM_HEIGHT": 80,
+    
+    # 其他尺寸
+    "TIME_HEIGHT": 115,
+    "TOP_TAB_HEIGHT": 75,
+}
